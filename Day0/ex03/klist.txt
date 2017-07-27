@@ -1,0 +1,5 @@
+Credentials cache: API:25138
+        Principal: adsabau@42.FR
+
+  Issued                Expires               Principal
+Jul 11 10:12:18 2017  Jul 11 20:12:18 2017  krbtgt/42.FR@42.FR
